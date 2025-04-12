@@ -1,7 +1,7 @@
 # This fork is to build a simple inference with hf.py which allows folder and video conversion.
 ## Use it: 
 
-`python3 hf.py --input walk.mp4 --output walk_o.mp4`
+`python3 hf.py --input walk.mp4 --output walk_o.mp4` <br>
 `python3 hf.py --input images --output images_output`
 
 ## ----
