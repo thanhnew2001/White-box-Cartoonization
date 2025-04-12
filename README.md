@@ -4,6 +4,8 @@
 `python3 hf.py --input walk.mp4 --output walk_o.mp4`
 `python3 hf.py --input images --output images_output`
 
+<video src='walk.mp4'></video>
+
 <img src='paper/shinjuku.jpg' align="left" width=1000>
 
 <br><br><br>
